@@ -1,1 +1,1 @@
-Go to the scripts branch to find the scripts
+Go to the loadstring branch to find the scripts
