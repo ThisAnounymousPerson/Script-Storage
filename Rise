@@ -1,2 +1,2 @@
--- idk if this script still works
+-- [idk if this script still works]
 loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/RiseForRoblox/refs/heads/main/main.lua",true))()
